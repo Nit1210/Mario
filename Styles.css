@@ -1,0 +1,18 @@
+.banner{
+    position: relative;
+}
+.banner img{
+    max-width: 100%;
+}
+.banner .Welcome{
+
+    color: rgb(251, 3, 3);
+    position: absolute;
+    left: 0;
+    top: 30px;
+  
+    
+}
+.banner h2{
+    font-size: 72px;
+}
